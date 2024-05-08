@@ -1,4 +1,4 @@
-### Development of a Credit Lending Prediction System
+# Development of a Credit Lending Prediction System
 ## Abstract
 This paper details the creation and implementation of a machine learning system designed to predict credit lending approval. The system comprises two main components: a predictive model (prediction_model.ipynb) developed in a Jupyter notebook environment, and a web application (app.py) built using the Dash framework. The predictive model employs a decision tree classifier to predict credit approval based on various applicant features, while the web application serves as an interface for users to input applicant data and receive predictions.
 
