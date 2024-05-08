@@ -58,8 +58,10 @@ During the development process, challenges such as handling missing data, model 
 ## 7. Conclusion and Future Work
 The credit lending prediction system demonstrates the potential of machine learning in financial decision-making. Future enhancements could include the integration of more complex algorithms, improvement of user interface aesthetics, and implementation of additional features based on user feedback and testing. I also plan on dockerizing and deploying this through AWS.
 
-References
+### References
+
 Documentation and libraries for scikit-learn, Dash, and Jupyter Notebook.
+
 Previous research and methodologies in credit scoring and financial prediction models.
 
 Avery Evans. "Application Data." Kaggle, https://www.kaggle.com/datasets/caesarmario/application-data/data.
