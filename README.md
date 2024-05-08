@@ -61,4 +61,5 @@ The credit lending prediction system demonstrates the potential of machine learn
 References
 Documentation and libraries for scikit-learn, Dash, and Jupyter Notebook.
 Previous research and methodologies in credit scoring and financial prediction models.
+
 Avery Evans. "Application Data." Kaggle, https://www.kaggle.com/datasets/caesarmario/application-data/data.
