@@ -21,9 +21,6 @@ with open('model.pkl', 'rb') as file:
     model = pickle.load(file)
 
 
-# Load your model
-# model = pickle.load(open('model.pkl', 'rb'))
-
 app = Dash(__name__)
 
 
@@ -217,11 +214,3 @@ if __name__ == '__main__':
 
 
 
-# app.layout = html.Div([
-#     html.Div(children='Hello World')
-# ])
-
-
-
-# if __name__ == '__main__':
-#     app.run(debug=True)
