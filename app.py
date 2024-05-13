@@ -4,9 +4,7 @@ from dash.dependencies import Input, Output, State
 import pickle5 as pickle
 import pandas as pd
 
-import sklearn
 import pickle
-import sys
 
 # Check scikit-learn version
 # required_sklearn_version = "0.XX.X"  # the version used during model training
