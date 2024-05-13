@@ -1,7 +1,7 @@
 import dash 
 from dash import Dash, html, dcc
 from dash.dependencies import Input, Output, State
-import pickle5 as pickle
+import pickle
 import pandas as pd
 
 import pickle
